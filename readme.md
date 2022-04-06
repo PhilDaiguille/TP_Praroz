@@ -10,11 +10,11 @@ L'organisation des répertoires est mal organisé
 
 - C'est pas sémantique
 - probleme dans le head
-- Manque d'acessibilité
+- Manque d'accessibilité
 - il manque la meta description pour le referencement 
 - probleme dans le search, par rapport une balise a et un button, petit conseil de chef : conseillé de mettre en form
 - trop de div
-- Dans son content, ce qui est honteux, c'est le fait qu'il ai mis un a dans un button.
+- Dans son content, ce qui est honteux, c'est le fait qu'il aigi mis un a dans un button.
 - une balise form pour le login
 - Son login et sa recherche ne marche pas
 - il manque un header, main, footer
