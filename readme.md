@@ -33,3 +33,6 @@ L'organisation des répertoires est mal organisé
 - il initialise pas le DOM
 - il y a des var, c mieux des let
 - fonction fléchés c mieux
+
+
+Pour voir le site[voir lien](https://phildaiguille.github.io/TP_Correction/index.html)
