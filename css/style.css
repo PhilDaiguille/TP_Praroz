@@ -194,6 +194,7 @@ main .content .cn{
 
 main .cn:hover{
     background-color: #fff;
+    color: #000;
 }
 
 main .content span{
