@@ -37,4 +37,4 @@ L'organisation des répertoires est mal organisé
 ![](/assets/readme.png)
 
 
-Pour voir le site[voir lien](https://phildaiguille.github.io/TP_Correction/index.html)
+Pour voir le site : [voir lien](https://phildaiguille.github.io/TP_Praroz/index.html)
