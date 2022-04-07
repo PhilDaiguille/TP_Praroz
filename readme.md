@@ -34,5 +34,7 @@ L'organisation des répertoires est mal organisé
 - il y a des var, c mieux des let
 - fonction fléchés c mieux
 
+![](/assets/readme.png)
+
 
 Pour voir le site[voir lien](https://phildaiguille.github.io/TP_Correction/index.html)
