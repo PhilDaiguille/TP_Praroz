@@ -46,10 +46,6 @@ header .navbar{
     margin: auto;
 }
 
-header .icon{
-    max-width: 20rem;
-    float: left;
-}
 header .logo{
     color: #BD5500;
     font-size: 3.5rem;
