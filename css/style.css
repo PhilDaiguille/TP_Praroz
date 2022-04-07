@@ -193,8 +193,8 @@ main .content .cn{
 }
 
 main .cn:hover{
-    background-color: #fff;
     color: #000;
+    background-color: #fff;
 }
 
 main .content span{
