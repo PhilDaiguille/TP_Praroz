@@ -166,7 +166,7 @@ main .content .par{
     line-height: 3rem;
 }
 
-main .content h1{
+main .content h2{
     font-family: 'Times New Roman';
     font-size: 5rem;
     padding-left: 2rem;
@@ -347,7 +347,7 @@ footer p{
     main .content{
         padding-top: 0rem;
     }
-    main .content h1{
+    main .content h2{
         text-align: center;
         font-size: 4rem;
     }
@@ -367,10 +367,6 @@ footer p{
         left: 0;
         top: 4rem;
     }
-    main{
-        height: 100%;
-    }
-    
     main{
         height: 100%;
     }
