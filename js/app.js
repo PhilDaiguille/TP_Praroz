@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     console.log("chargé");
-    let btn, email, password;
+    let btn, email,warning, password;
+    let exprmail = /^[a-zA-Z0-9._-]+@[a-z0-9._-]{2,}\.[a-z]{2,4}$/;
     warning = document.querySelector(".form p");
     email = document.getElementsByTagName("input")[2].value;
     password = document.getElementsByTagName("input")[3].value;
@@ -17,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
         password = document.getElementsByTagName("input")[3].value;
         btn = document.getElementsByTagName("input")[4];
 
-        if (email && password) {
+        if (email.match(exprmail) && password) {
             warning.classList.add("success");
             warning.classList.remove("error");
             warning.innerText = "Connexion réussie";

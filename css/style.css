@@ -82,7 +82,28 @@ header .search{
     max-width: 33rem;
     float: left;
 }
-
+.error{
+    display: block;
+    color: #ff0000;
+    background-color: #111;
+    border-radius: 1rem;
+    border: solid .1rem #fff;
+    padding: 1rem;
+    margin: 1rem auto;
+    text-align: center;
+    width: 100%;
+}
+.success{
+    display: block;
+    background-color: #111;
+    border-radius: 1rem;
+    border: solid .1rem #fff;
+    padding: 1rem;
+    margin: 1rem auto;
+    color: rgb(0, 156, 0);
+    text-align: center;
+    width: 100%;
+}
 header .srch{
     font-family: 'Times New Roman';
     max-width: 20rem;
